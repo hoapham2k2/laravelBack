@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'HoaPhamLaravel'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2180568B4AFA4698A1479A69EB0717C1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CF47D5515224EF4937D01024A4CE924 }}
           package: .
